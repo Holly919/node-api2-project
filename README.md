@@ -43,7 +43,7 @@ A Blog Post in the database has the following structure:
 }
 ```
 
-### Comment Schema
+### Comment Schema 
 
 A Comment in the database has the following structure:
 
